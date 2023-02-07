@@ -1,0 +1,11 @@
+.page-list-elect {
+    border: 2px solid green;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.page-list-inactive {
+    border: 1px solid gray;
+    padding: 10px;
+    cursor: pointer;
+}
